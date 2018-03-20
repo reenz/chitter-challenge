@@ -3,6 +3,7 @@ Chitter Challenge
 
 Heroku link: https://reenz-chitter.herokuapp.com
 
+Makers Academy weekend challenge to build Twitter clone
 
 Features:
 -------
