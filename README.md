@@ -42,3 +42,22 @@ As a Maker
 So that I can stay constantly tapped in to the shouty box of Chitter
 I want to receive an email if I am tagged in a Peep
 ```
+
+## How to use
+```
+- Clone it (command line -git clone git@github.com:reenz/chitter-challenge.git)
+- Install dependencies (command line - bundle install)
+- Run the server (command line - rackup )
+- Visit the app on localhost:9292
+```
+## Technologies Used
+```
+- Ruby
+- Sinatra
+- bcrypt
+- rake
+- datamapper
+- postgres
+- Rspec/Capybara
+- SQLite3
+```
